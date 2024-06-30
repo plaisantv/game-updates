@@ -11,4 +11,4 @@ data/translate/T_Npc.ini
 data/translate/T_Dialogue.ini
 data/translate/T_Enchant.ini
 data/translate/T_Item.ini
-data/translate/T_Itemmall.ini
+data/translate/T_ItemMall.ini
