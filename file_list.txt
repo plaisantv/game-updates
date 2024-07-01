@@ -6,9 +6,11 @@ data/db/c_item.ini
 data/db/c_enchant.ini
 data/db/c_elf.ini
 data/db/c_dialogue.ini
+data/db/c_equipset.ini
 data/translate/T_Mission.ini
 data/translate/T_Npc.ini
 data/translate/T_Dialogue.ini
 data/translate/T_Enchant.ini
 data/translate/T_Item.ini
 data/translate/T_ItemMall.ini
+data/translate/T_EquipSet.ini
